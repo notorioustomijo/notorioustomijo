@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notorioustomijo
+- 👋 Hi, I’m Tomi Joshua
 - 👀 I’m interested in UX/UI design, and Full stack development.
 - 🌱 I’m currently learning UX/UI design and Front end development.
 - 💞️ I’m looking to collaborate on projects that make lives better.
